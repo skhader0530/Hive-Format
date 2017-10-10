@@ -26,7 +26,7 @@ define(function (require, exports, module) {
     var formatter = require("lib/format-helper");
 
     // file extension <-> format method to be used MAP
-    var supportedFile = {xml:'xml',css:'css',sql:'sql',json:'json',html:'xml'};
+    var supportedFile = {xml:'xml',css:'css',sql:'sql',hql:'hql',json:'json',html:'xml'};
     // currently supported actions.
     var supportedAction = {INDENT:'indent', FORMAT:"format", MINIFY:"minify"};
 
