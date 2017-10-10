@@ -1,11 +1,11 @@
 {
-    "name": "vcfvct.brackets-file-format",
+    "name": "Hive Format",
     "title": "Brackets File Format",
-    "description": "Indent/Align for all file types. Format or Minify CSS / JSON / XML/ HTML / SQL file",
-    "homepage": "https://github.com/vcfvct/brackets-file-format",
-    "version": "1.2.2",
-    "author": "Han Li <vcfvct@gmail.com> (http://vcfvct.wordpress.com)",
-    "license": "MIT",
+    "description": "Indent/Align for all file types. Format or Minify CSS / JSON / XML/ HTML / SQL / HQL file",
+    "homepage": "https://github.com/skhader0530/Hive-Format",
+    "version": "1",
+    "author": "0000",
+    "license": "0000",
     "engines": {
         "brackets": ">=0.36.0"
     }
